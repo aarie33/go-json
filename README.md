@@ -5,7 +5,7 @@
 - JSON Tag = untuk mengubah nama field pada struct menjadi nama field pada json
 - Map = untuk mengubah json menjadi map, tidak support JSON Tag
 - Streaming Decoder
-- 
+- Streaming Encoder
 
 ## Slide
 <a href="https://docs.google.com/presentation/d/1mGVdO7Khmiw-9lDmkCWqd9l5_UqohKRkpHbjabRD--U/edit" target="_blank">Here</a>
